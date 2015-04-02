@@ -1,7 +1,0 @@
-README.txt
-./reverse_geocoder/__init__.py
-./reverse_geocoder/cKDTree_MP.py
-pip-egg-info/reverse_geocoder.egg-info/PKG-INFO
-pip-egg-info/reverse_geocoder.egg-info/SOURCES.txt
-pip-egg-info/reverse_geocoder.egg-info/dependency_links.txt
-pip-egg-info/reverse_geocoder.egg-info/top_level.txt
